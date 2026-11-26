@@ -1,4 +1,4 @@
-# bioinformatics-journey
+
 # Bioinformatics Journey
 
 Learning bioinformatics from scratch (Python, sequences, statistics, R, NGS).
